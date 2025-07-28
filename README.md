@@ -174,11 +174,3 @@ whats section on the product schema?
 > 
 >   the section parameter will be a one of the bottom button and the Latest Product will be category.
 > </p>
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@MiladSadeghi](https://github.com/MiladSadeghi) - Idea & Initial work
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Thanks to [SaberAli](https://bio.fm/surfauxion) for designing hekto
